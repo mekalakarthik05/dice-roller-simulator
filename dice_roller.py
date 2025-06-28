@@ -1,10 +1,5 @@
 import random
 import time
-import os
-
-def clear_screen():
-    # Clear the terminal screen
-    os.system('cls' if os.name == 'nt' else 'clear')
 
 def roll_dice():
     input("🎲 Press Enter to roll the dice...")
