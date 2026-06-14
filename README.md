@@ -9,6 +9,9 @@ A beginner-friendly Python project that simulates rolling a six-sided die. When 
 - Option to roll again or exit
 - Clear and clean terminal interface
 
+## Working
+![Dice Roll](dice_roll_output.png)
+
 ## 🛠️ Requirements
 
 - Python 3.x
